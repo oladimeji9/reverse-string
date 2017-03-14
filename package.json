@@ -1,0 +1,25 @@
+{
+  "name": "reverse-string",
+  "version": "1.0.0",
+  "description": "application reverses string\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D that reverses string",
+  "main": "app/reversestringlib.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine test/reversestringtest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "akande oladimeji",
+  "license": "ISC"
+}
